@@ -8,3 +8,7 @@ __pycache__/
 env/
 venv/
 ENV/
+quests.json
+quests.broken-*.json
+sakura_settings.json
+smug_settings.json
